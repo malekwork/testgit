@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-new file first
-=======
 new file 1
->>>>>>> a7694eddc20b8cd8d838a4234a4fe6e40c63d23e
+
